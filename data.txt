@@ -1,0 +1,5 @@
+Name: Shodipe, Oladele Kehinde
+Email: oladyken@yahoo.com
+slack username: Oladele Shodipe
+Track: Backend
+Courses: PHP, Python, C#
